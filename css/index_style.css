@@ -1,0 +1,12 @@
+.parent{
+
+    position: relative;
+    background-color: tomato;
+}
+
+.mov{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
